@@ -1,0 +1,9 @@
+{
+  "name": "develo/googletrustedstores",
+  "license": "MIT",
+  "type": "magento-module",
+  "description": "Google trusted stores integration",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
